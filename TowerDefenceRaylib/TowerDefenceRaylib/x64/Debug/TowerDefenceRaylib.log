@@ -1,0 +1,339 @@
+﻿  BaseEnemy.cpp
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BaseEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BaseEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(217,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(218,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(105,43): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(107,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BaseEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(137,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(156,32): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'BaseEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(158,27): warning C4244: '-=': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'BaseEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseEnemy.cpp(79,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseEnemy.cpp(80,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  BaseProjectile.cpp
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BaseProjectile.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BaseProjectile.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(217,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseProjectile.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(218,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseProjectile.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(105,43): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseProjectile.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(107,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BaseProjectile.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(137,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseProjectile.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(156,32): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'BaseProjectile.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(158,27): warning C4244: '-=': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'BaseProjectile.cpp')
+  
+  BaseStronghold.cpp
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BaseStronghold.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BaseStronghold.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(217,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseStronghold.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(218,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseStronghold.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(105,43): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseStronghold.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(107,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BaseStronghold.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(137,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseStronghold.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(156,32): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'BaseStronghold.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(158,27): warning C4244: '-=': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'BaseStronghold.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseStronghold.cpp(68,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseStronghold.cpp(68,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  BaseTower.cpp
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(105,43): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(107,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BaseTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(137,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BaseTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BaseTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(217,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(218,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'BaseTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(156,32): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'BaseTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(158,27): warning C4244: '-=': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'BaseTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.cpp(107,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.cpp(107,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.cpp(127,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.cpp(128,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  GameManager.cpp
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GameManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GameManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(217,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(218,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(105,43): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(107,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GameManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(137,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(156,32): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'GameManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(158,27): warning C4244: '-=': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'GameManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.cpp(566,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.cpp(566,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.cpp(566,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.cpp(567,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.cpp(567,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.cpp(567,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  GridManager.cpp
+  main.cpp
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(217,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(218,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(105,43): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(107,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(137,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(156,32): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(158,27): warning C4244: '-=': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  PrimaryEnemy.cpp
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'PrimaryEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'PrimaryEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(217,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'PrimaryEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(218,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'PrimaryEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(105,43): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'PrimaryEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(107,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'PrimaryEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(137,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'PrimaryEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(156,32): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'PrimaryEnemy.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(158,27): warning C4244: '-=': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'PrimaryEnemy.cpp')
+  
+  PrimaryProjectile.cpp
+  PrimaryStronghold.cpp
+  PrimaryTower.cpp
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(105,43): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'PrimaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(107,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'PrimaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(137,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'PrimaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'PrimaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'PrimaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(217,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'PrimaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(218,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'PrimaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(156,32): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'PrimaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(158,27): warning C4244: '-=': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'PrimaryTower.cpp')
+  
+  SecondaryTower.cpp
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(105,43): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'SecondaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(107,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'SecondaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(137,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'SecondaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'SecondaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'SecondaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(217,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'SecondaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(218,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'SecondaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(156,32): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'SecondaryTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(158,27): warning C4244: '-=': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'SecondaryTower.cpp')
+  
+  ThirdTower.cpp
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(105,43): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ThirdTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(107,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ThirdTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(137,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ThirdTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ThirdTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ThirdTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(217,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ThirdTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(218,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ThirdTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(156,32): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'ThirdTower.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(158,27): warning C4244: '-=': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'ThirdTower.cpp')
+  
+  UIManager.cpp
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'UIManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(104,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'UIManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(217,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'UIManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.h(218,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'UIManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(105,43): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'UIManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(107,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'UIManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\BaseTower.h(137,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'UIManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(156,32): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'UIManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\GameManager.h(158,27): warning C4244: '-=': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'UIManager.cpp')
+  
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.cpp(144,35): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.cpp(149,71): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.cpp(176,74): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.cpp(191,75): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.cpp(199,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.cpp(220,81): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.cpp(236,81): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.cpp(252,87): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\GitHubRepoNew\TowerDefenceRaylib\TowerDefenceRaylib\UIManager.cpp(275,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  TowerDefenceRaylib.vcxproj -> D:\GitHubRepoNew\TowerDefenceRaylib\x64\Debug\TowerDefenceRaylib.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

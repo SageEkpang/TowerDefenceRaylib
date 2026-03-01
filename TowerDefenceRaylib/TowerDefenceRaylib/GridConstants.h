@@ -1,0 +1,1 @@
+#define GRIDE_TILE_SIZE 25
